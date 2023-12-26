@@ -7,7 +7,8 @@ Authored by Arup Sarkar, this project presents a comprehensive analysis of the r
 The project focuses on dissecting user interactions within r/Depression, classifying comments indicative of depressive states using NLP techniques, and analyzing the network of user engagements within and beyond the subreddit.
 
 ## Data Fetching and Preprocessing
-Utilizing Python Reddit API Wrapper (PRAW), the project involves data retrieval and preprocessing to ensure dataset integrity, including handling missing values and duplicate entries.
+- Utilizing Python Reddit API Wrapper (PRAW), the project involves data retrieval and preprocessing to ensure dataset integrity, including handling missing values and duplicate entries.
+- **If you wish to run this notebook, please use your own API credentials**
 
 ## Data Analysis
 - Analysis of author posts in r/Depression and their engagement in other subreddits.
